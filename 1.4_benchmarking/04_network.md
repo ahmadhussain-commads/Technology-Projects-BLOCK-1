@@ -3,8 +3,8 @@
 ### 1️⃣ On the server machine:
 ```bash
 iperf3 -s
-```
-<img width="3024" height="4032" alt="WhatsApp Image 2026-10-24 at 7 59 18 PM" src="https://github.com/user-attachments/assets/3775e4d5-bca3-45d1-a7bb-56de980b220a" />
+`<img width="4032" height="3024" alt="WhatsApp Image 2026-10-24 at 7 59 18 PM (4)" src="https://github.com/user-attachments/assets/60fb2bf0-98c7-4d4e-8fef-88227f35e1ac" />
+`
 
 ### 2️⃣ On the Raspberry Pi:
 ```bash
